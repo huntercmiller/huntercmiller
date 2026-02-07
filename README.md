@@ -26,7 +26,7 @@ huntercmiller();
 
 ---
 <p align="center">
-  <img src="https://github.com/huntercmiller/huntercmiller/">
+  <img src="https://github.com/huntercmiller/huntercmiller/blob/main/media/huntercmiller.gif">
 </p>
 
 <p align="center">
