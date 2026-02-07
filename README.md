@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hey, I'm Hunter 💻
 
-<!--
-**huntercmiller/huntercmiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+function huntercmiller() {
+  // Cybersecurity | Information Security | Full-Stack Web Development
+  const contactInfo = {
+    Website: "huntermiller.me",
+    Email: "hunter@huntermiller.me",
+  };
 
-Here are some ideas to get you started:
+  for (const [platform, handle] of Object.entries(contactInfo)) {
+    console.log(`${platform.padStart(10)}: ${handle}`);
+  }
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+huntercmiller();
+
+```
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,kali,linux,raspberrypi,cloudflare,vscode,bash,py,html,css,js,lua" />
+  </a>
+</p>
+
+
+---
+<p align="center">
+  <img src="https://github.com/huntercmiller/huntercmiller/">
+</p>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=435&height=70&lines=Hey%2C+Im+Hunter+Miller.;Welcome+To+My+Profile!" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huntercmiller&theme=apprentice&show_icons=true" />
+</p>
+
